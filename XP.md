@@ -1,11 +1,11 @@
 **EXTREME PROGRAMMING (XP)**  
-**Origem:** Estados Unídos - 1997
-**Criador:** Kent Beck
-**Objetivo:** Extreme Programming se consentra nas atividades dos programadores direcionando a maioria das práticas para os mesmos. Tem muito zelo pelo cumprimento das definições no escopo do software, buscando antender as espectativas no menor custo e tempo possível.
+**Origem:** Estados Unídos - 1997  
+**Criador:** Kent Beck  
+**Objetivo:** Extreme Programming se consentra nas atividades dos programadores direcionando a maioria das práticas para os mesmos. Tem muito zelo pelo cumprimento das definições no escopo do software, buscando antender as espectativas no menor custo e tempo possível.  
 
-XP descreve processos e procedimentos para lecionar  a "arte de pogramar softwares de qualidade coletivamente", propondo um estudo científico dos métodos adotados para possibilitar resiliência de acordo com o contexto abordado. Pode ser entendida como uma metodologia que propõe e estuda um conjunto de linguagens de padrões de organização e processo.
+XP descreve processos e procedimentos para lecionar  a "arte de pogramar softwares de qualidade coletivamente", propondo um estudo científico dos métodos adotados para possibilitar resiliência de acordo com o contexto abordado. Pode ser entendida como uma metodologia que propõe e estuda um conjunto de linguagens de padrões de organização e processo.  
 
-“*Programação eXtrema (XP) ́e uma metodologia leve para times pequenos e medios desenvolvendo software com requisitos vagos ou que mudam rapidamente.*” (BECK, 1999)
+“*Programação eXtrema (XP) ́e uma metodologia leve para times pequenos e medios desenvolvendo software com requisitos vagos ou que mudam rapidamente.*” (BECK, 1999)  
 
 **Valores:**
 1. Comunicação: Sabendo que quando um trabalho envolve mais de uma pessoa, a eficência e eficácia de um projeto está diretamente ligada à qualidade da comunicação. Diferente de muitas metodologias, o XP prioriza a comunicação pessoal e oral, considerando que o contato direto e presencial é muito mais enriquecedor que uma documentação escrita, extensa e completa.
