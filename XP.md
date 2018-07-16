@@ -1,4 +1,4 @@
-**EXTREME PROGRAMMING (XP)**
+**EXTREME PROGRAMMING (XP)**  
 **Origem:** Estados Unídos - 1997
 **Criador:** Kent Beck
 **Objetivo:** Extreme Programming se consentra nas atividades dos programadores direcionando a maioria das práticas para os mesmos. Tem muito zelo pelo cumprimento das definições no escopo do software, buscando antender as espectativas no menor custo e tempo possível.
